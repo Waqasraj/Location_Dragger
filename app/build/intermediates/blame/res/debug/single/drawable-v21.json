@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Blogs for Github\\Drag\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\759732c90ebcc297502f712bea1888f9efed19b1\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Blogs for Github\\Drag\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7737c0ea33fdb918c42d797919c9671173122de5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Blogs for Github\\Drag\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7737c0ea33fdb918c42d797919c9671173122de5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Blogs for Github\\Drag\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7737c0ea33fdb918c42d797919c9671173122de5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Downloads\\Blogs for Github\\Drag\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7737c0ea33fdb918c42d797919c9671173122de5\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
